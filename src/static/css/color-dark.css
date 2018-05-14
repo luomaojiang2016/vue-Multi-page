@@ -1,0 +1,21 @@
+.header{
+    background-color: #409EFF;
+}
+.login-wrap{
+    background: #409EFF;
+}
+.plugins-tips{
+    background: #eef1f6;
+}
+.plugins-tips a{
+    color: #20a0ff;
+}
+.el-upload--text em {
+    color: #20a0ff;
+}
+.pure-button{
+    background: #20a0ff;
+}
+.el-dialog__header {background-color: #409EFF;height: 12px}
+.el-dialog__close {position:relative;top:-5px;color:white !important;}
+.el-dialog__title {position:relative;top:-8px;color:white !important;}
